@@ -14,7 +14,8 @@ galaxy_info:
   # - GPLv3
   # - Apache
   # - CC-BY
-  license: MIT
+  license:
+  - MIT
 
   min_ansible_version: 2
 
@@ -31,7 +32,7 @@ galaxy_info:
   # the ones that apply to your role. If you don't see your
   # platform on this list, let us know and we'll get it added!
   #
-  #platforms:
+  platforms:
   #- name: EL
   #  versions:
   #  - all
