@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/terencewestphal/ansible-role-template.svg?branch=master)](https://travis-ci.org/terencewestphal/ansible-role-template)
+
 Ansible Role: \_\_template\_\_
 =========
 
