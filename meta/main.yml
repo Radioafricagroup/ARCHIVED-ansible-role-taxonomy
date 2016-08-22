@@ -32,7 +32,7 @@ galaxy_info:
   # the ones that apply to your role. If you don't see your
   # platform on this list, let us know and we'll get it added!
   #
-  #platforms:
+  platforms:
   #- name: EL
   #  versions:
   #  - all
@@ -70,11 +70,11 @@ galaxy_info:
   #  - 12.3
   #  - 13.1
   #  - 13.2
-  #- name: MacOSX
+  - name: MacOSX
   #  versions:
   #  - all
   #  - 10.10
-  #  - 10.11
+    - 10.11
   #  - 10.12
   #  - 10.7
   #  - 10.8
