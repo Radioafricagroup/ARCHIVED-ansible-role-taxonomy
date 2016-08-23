@@ -95,5 +95,5 @@ MIT
 Author Information
 ------------------
 
-- Author: [Terence Westphal](@terencewestphal)
-- Company: [42 BV](@42BV)
+- Author: Terence Westphal
+- Company: 42 BV
